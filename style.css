@@ -1,0 +1,12 @@
+
+
+
+
+
+body {
+    background: url(earthbg.jpg) no-repeat center/cover;
+    height: 100vh;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif; 
+}
